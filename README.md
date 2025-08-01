@@ -1,5 +1,4 @@
 # Projeto-RAG-Juridico
-# 🤖 Projeto RAG Jurídico
 
 ## 📋 Descrição
 
