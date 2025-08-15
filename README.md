@@ -11,4 +11,3 @@ Sistema de **Retrieval-Augmented Generation (RAG)** especializado em documentos 
 - 💬 **Chat Jurídico**: Interface conversacional para consultas legais
 - 📊 **Análise de Documentos**: Extração e análise automática de informações
 - 🔗 **Citações Automáticas**: Referências precisas a fontes legais
-- 📱 **Interface Web**: Acesso via navegador com design responsivo
