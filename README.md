@@ -540,3 +540,6 @@ Para questões ou problemas:
 **Versão**: 2.0  
 **Última atualização**: Dezembro 2025
 
+## 👥 Membros da Equipe
+- *Bruno CGP* ([utbrunocgp](https://github.com/utbrunocgp))  
+- *Lucas Negrini* ([LucasNegrin1](https://github.com/LucasNegrin1))
